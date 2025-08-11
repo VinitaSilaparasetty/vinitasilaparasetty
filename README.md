@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,keras,mysql,julia" />
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,mysql,julia" />
 </p>
 
 <hr>
@@ -33,7 +33,9 @@
 
 <hr>
 
-<hr>
-  <p>Visitor count</p>
+<p align="center">Visitor count</p>
+<p align="center">
   <img src="https://profile-counter.glitch.me/VinitaSilaparasetty/count.svg" alt="Visitor's Count" />
-</div>
+</p>
+<hr>
+
