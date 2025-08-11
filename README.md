@@ -1,9 +1,13 @@
 # Join my quora space to learn about data science: https://www.quora.com/q/datascienceenthusiasts
 <img src="https://github.com/VinitaSilaparasetty/vinitasilaparasetty/blob/master/intro.png?raw=true" alt="Welcome!">
 <div align="center"> 
- <p align="center">
+ ## 🛠️ Languages and Tools
+<br>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,tensorflow,mysql,julia" />
 </p>
+
 
 <hr>
 <div align="center">
