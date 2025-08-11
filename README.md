@@ -1,6 +1,7 @@
 # Join my quora space to learn about data science: https://www.quora.com/q/datascienceenthusiasts
 <img src="https://github.com/VinitaSilaparasetty/vinitasilaparasetty/blob/master/intro.png?raw=true" alt="Welcome!">
 <div align="center"> 
+ 
  ## 🛠️ Languages and Tools
 <br>
 
@@ -18,6 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
 ## ⚡️ My Stats
 
 <br>
