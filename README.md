@@ -1,12 +1,13 @@
 # Join my quora space to learn about data science: https://www.quora.com/q/datascienceenthusiasts
 <img src="https://github.com/VinitaSilaparasetty/vinitasilaparasetty/blob/master/intro.png?raw=true" alt="Welcome!">
 <div align="center"> 
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Vinita+Silaparasetty!;" />
-</h1>
-  
-  ## 🛠️ Languages and Tools
+  ## ⚡️ My Stats
 <br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinitaSilaparasetty&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,tensorflow,mysql,julia" />
