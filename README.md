@@ -4,13 +4,12 @@
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Vinita+Silaparasetty!;" />
 </h1>
+  
   ## 🛠️ Languages and Tools
-
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Python, R, Tensorflow, Keras, SQL, Julia" />
-  <img src="https://skillicons.dev/icons?i=" />
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,keras,mysql,julia" />
 </p>
 
 <hr>
