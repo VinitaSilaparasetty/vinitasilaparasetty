@@ -1,4 +1,3 @@
-# Join my quora space to learn about data science: https://www.quora.com/q/datascienceenthusiasts
 <div align="center"> 
  
  ## 🛠️ Languages and Tools
@@ -19,13 +18,5 @@
   </a>
 </div>
 
-## ⚡️ My Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=VinitaSilaparasetty&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Vinita's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=VinitaSilaparasetty&theme=transparent&count_private=true&border_radius=10&locale=en" alt="VinitaSilaparasetty" />
-</div>
 
 
