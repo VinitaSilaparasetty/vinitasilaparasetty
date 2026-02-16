@@ -1,14 +1,25 @@
 # Hi, I’m Vinita Silaparasetty.
 
-I bridge the gap between complex data science and real-world application. With a background spanning **Fashion Design** and a **Master’s in Data Science**, I specialize in building predictive models, navigating AI compliance, and developing innovative hardware-software intersections.
+Operating under the brand Aevoxis Solutions (an independent technical project managed through the Smart eG cooperative), I provide specialized research and high-level systems engineering for enterprises implementing Agentic RAG workflows.
 
-## 🛠️ What I Do (Freelance & Collaboration)
-I am currently based in **North Rhine-Westphalia, Germany**, focusing on remote-first, high-impact projects.
+- **System Design & Engineering:** Designing production-grade, multi-agent RAG pipelines that prioritize data grounding and minimize hallucinations through advanced retrieval strategies.
 
-* **Custom AI Solutions:** Designing SOPs and predictive architectures for startups.
-* **Technical Writing:** Drafting white papers on AI, Data Science, and Compliance.
-* **Generative Fashion:** Exploring the intersection of design, 3D modeling, and ML.
-* **Audit & Strategy:** Helping teams transition from "black box" models to documented, compliant systems.
+- **Agentic Workflow Orchestration:** Building autonomous AI systems with "Human-in-the-Loop" safety protocols for complex enterprise task automation.
+
+- **Technical Alignment (EU AI Act & GDPR):** Engineering technical guardrails into system designs to support transparency (Art. 50 AI Act) and privacy-by-design (Art. 25 GDPR).
+
+- **Curriculum Design & Technical Research:** Authoring professional white papers and designing specialized AI training programs that translate academic advancements into scalable, commercial applications.
+
+## 🛠️ What I Do (Independent Collaboration)
+I am based in North Rhine-Westphalia, Germany, focusing on remote-first, high-impact projects.
+
+- **Custom AI Systems:** Developing SOPs and technical prototypes for production-ready Agentic AI.
+
+- **Technical Writing:** Authoring in-depth white papers on AI, Data Science, and technical regulatory readiness.
+
+- **Generative Fashion:** Exploring the intersection of design, 3D modeling, and Machine Learning.
+
+- **Technical Strategy:** Helping teams transition from "black box" models to documented, engineering-led systems aligned with EU standards.
 
 ## 🚀 Expertise & Recognition
 - **Author:** Published author of *"Deep Learning Projects"* with **Apress New York** (2020).
