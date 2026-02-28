@@ -1,6 +1,6 @@
 # Hi, I’m Vinita Silaparasetty.
 
-Operating under the brand Aevoxis Solutions (an independent technical project managed through the Smart eG cooperative), I provide specialized research and high-level systems engineering for enterprises implementing Agentic RAG workflows.
+Operating under the brand Aevoxis Solutions, I provide specialized research and high-level systems engineering for enterprises implementing Agentic RAG workflows.
 
 - **System Design & Engineering:** Designing production-grade, multi-agent RAG pipelines that prioritize data grounding and minimize hallucinations through advanced retrieval strategies.
 
